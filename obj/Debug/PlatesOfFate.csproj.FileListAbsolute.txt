@@ -34,3 +34,6 @@ C:\Users\slava_ukraini\Desktop\PlatesOfFate\PlatesOfFate\obj\Debug\PlatesOfFate.
 C:\Users\slava_ukraini\Desktop\PlatesOfFate\PlatesOfFate\obj\Debug\PlatesOfFate.TrustInfo.xml
 C:\Users\slava_ukraini\Desktop\PlatesOfFate\PlatesOfFate\obj\Debug\PlatesOfFate.exe.manifest
 C:\Users\slava_ukraini\Desktop\PlatesOfFate\PlatesOfFate\obj\Debug\PlatesOfFate.application
+C:\Users\slava_ukraini\Documents\GitHub\Plates-of-Fates\bin\Debug\PlatesOfFate.exe.config
+C:\Users\slava_ukraini\Documents\GitHub\Plates-of-Fates\obj\Debug\PlatesOfFate.exe
+C:\Users\slava_ukraini\Documents\GitHub\Plates-of-Fates\obj\Debug\PlatesOfFate.pdb
