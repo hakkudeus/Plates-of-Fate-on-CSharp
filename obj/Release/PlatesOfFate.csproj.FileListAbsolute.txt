@@ -1,0 +1,8 @@
+C:\Users\ewe\AppData\Local\Temporary Projects\PlatesOfFate\bin\Release\PlatesOfFate.exe
+C:\Users\ewe\AppData\Local\Temporary Projects\PlatesOfFate\bin\Release\PlatesOfFate.pdb
+C:\Users\ewe\AppData\Local\Temporary Projects\PlatesOfFate\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ewe\AppData\Local\Temporary Projects\PlatesOfFate\obj\Release\PlatesOfFate.Form1.resources
+C:\Users\ewe\AppData\Local\Temporary Projects\PlatesOfFate\obj\Release\PlatesOfFate.Properties.Resources.resources
+C:\Users\ewe\AppData\Local\Temporary Projects\PlatesOfFate\obj\Release\PlatesOfFate.csproj.GenerateResource.Cache
+C:\Users\ewe\AppData\Local\Temporary Projects\PlatesOfFate\obj\Release\PlatesOfFate.exe
+C:\Users\ewe\AppData\Local\Temporary Projects\PlatesOfFate\obj\Release\PlatesOfFate.pdb

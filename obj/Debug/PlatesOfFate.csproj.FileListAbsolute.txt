@@ -1,0 +1,36 @@
+C:\Users\ewe\AppData\Local\Temporary Projects\PlatesOfFate\bin\Debug\PlatesOfFate.exe
+C:\Users\ewe\AppData\Local\Temporary Projects\PlatesOfFate\bin\Debug\PlatesOfFate.pdb
+C:\Users\ewe\AppData\Local\Temporary Projects\PlatesOfFate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ewe\AppData\Local\Temporary Projects\PlatesOfFate\obj\Debug\PlatesOfFate.Form1.resources
+C:\Users\ewe\AppData\Local\Temporary Projects\PlatesOfFate\obj\Debug\PlatesOfFate.Properties.Resources.resources
+C:\Users\ewe\AppData\Local\Temporary Projects\PlatesOfFate\obj\Debug\PlatesOfFate.csproj.GenerateResource.Cache
+C:\Users\ewe\AppData\Local\Temporary Projects\PlatesOfFate\obj\Debug\PlatesOfFate.exe
+C:\Users\ewe\AppData\Local\Temporary Projects\PlatesOfFate\obj\Debug\PlatesOfFate.pdb
+C:\Users\ewe\Documents\Visual Studio 2008\Projects\PlatesOfFate\PlatesOfFate\obj\Debug\PlatesOfFate.exe
+C:\Users\ewe\Documents\Visual Studio 2008\Projects\PlatesOfFate\PlatesOfFate\obj\Debug\PlatesOfFate.pdb
+C:\Users\ewe\Documents\Visual Studio 2008\Projects\PlatesOfFate\PlatesOfFate\bin\Debug\PlatesOfFate.exe.config
+C:\Users\ewe\Documents\Visual Studio 2008\Projects\PlatesOfFate\PlatesOfFate\bin\Debug\PlatesOfFate.exe.manifest
+C:\Users\ewe\Documents\Visual Studio 2008\Projects\PlatesOfFate\PlatesOfFate\bin\Debug\PlatesOfFate.application
+C:\Users\ewe\Documents\Visual Studio 2008\Projects\PlatesOfFate\PlatesOfFate\bin\Debug\PlatesOfFate.exe
+C:\Users\ewe\Documents\Visual Studio 2008\Projects\PlatesOfFate\PlatesOfFate\bin\Debug\PlatesOfFate.pdb
+C:\Users\ewe\Documents\Visual Studio 2008\Projects\PlatesOfFate\PlatesOfFate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ewe\Documents\Visual Studio 2008\Projects\PlatesOfFate\PlatesOfFate\obj\Debug\PlatesOfFate.Properties.Resources.resources
+C:\Users\ewe\Documents\Visual Studio 2008\Projects\PlatesOfFate\PlatesOfFate\obj\Debug\PlatesOfFate.csproj.GenerateResource.Cache
+C:\Users\ewe\Documents\Visual Studio 2008\Projects\PlatesOfFate\PlatesOfFate\obj\Debug\PlatesOfFate.TrustInfo.xml
+C:\Users\ewe\Documents\Visual Studio 2008\Projects\PlatesOfFate\PlatesOfFate\obj\Debug\PlatesOfFate.exe.manifest
+C:\Users\ewe\Documents\Visual Studio 2008\Projects\PlatesOfFate\PlatesOfFate\obj\Debug\PlatesOfFate.application
+C:\Users\ewe\Documents\Visual Studio 2008\Projects\PlatesOfFate\PlatesOfFate\obj\Debug\PlatesOfFate.mainMenu.resources
+C:\Users\slava_ukraini\Desktop\PlatesOfFate\PlatesOfFate\bin\Debug\PlatesOfFate.exe.config
+C:\Users\slava_ukraini\Desktop\PlatesOfFate\PlatesOfFate\obj\Debug\PlatesOfFate.exe
+C:\Users\slava_ukraini\Desktop\PlatesOfFate\PlatesOfFate\obj\Debug\PlatesOfFate.pdb
+C:\Users\slava_ukraini\Desktop\PlatesOfFate\PlatesOfFate\bin\Debug\PlatesOfFate.exe.manifest
+C:\Users\slava_ukraini\Desktop\PlatesOfFate\PlatesOfFate\bin\Debug\PlatesOfFate.application
+C:\Users\slava_ukraini\Desktop\PlatesOfFate\PlatesOfFate\bin\Debug\PlatesOfFate.exe
+C:\Users\slava_ukraini\Desktop\PlatesOfFate\PlatesOfFate\bin\Debug\PlatesOfFate.pdb
+C:\Users\slava_ukraini\Desktop\PlatesOfFate\PlatesOfFate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\slava_ukraini\Desktop\PlatesOfFate\PlatesOfFate\obj\Debug\PlatesOfFate.mainMenu.resources
+C:\Users\slava_ukraini\Desktop\PlatesOfFate\PlatesOfFate\obj\Debug\PlatesOfFate.Properties.Resources.resources
+C:\Users\slava_ukraini\Desktop\PlatesOfFate\PlatesOfFate\obj\Debug\PlatesOfFate.csproj.GenerateResource.Cache
+C:\Users\slava_ukraini\Desktop\PlatesOfFate\PlatesOfFate\obj\Debug\PlatesOfFate.TrustInfo.xml
+C:\Users\slava_ukraini\Desktop\PlatesOfFate\PlatesOfFate\obj\Debug\PlatesOfFate.exe.manifest
+C:\Users\slava_ukraini\Desktop\PlatesOfFate\PlatesOfFate\obj\Debug\PlatesOfFate.application
